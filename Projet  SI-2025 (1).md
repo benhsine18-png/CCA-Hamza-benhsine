@@ -1,4 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+<img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/bb07ca64-cdc9-4fac-8299-461ea49616fc" />
+/>
 
 
 Voici une énoncé global concis et structuré qui présente l'ensemble de ces projets Odoo ERP, adapté pour un contexte pédagogique destiné aux étudiants de Master. Il met en avant leur portée innovante, technique et professionnelle.
